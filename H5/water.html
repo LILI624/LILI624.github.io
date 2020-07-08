@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>water</title>
+</head>
+<body>
+<audio src="w.mp3" type="audio/mpeg" autoplay loop></audio>
+<br><br>
+<img src="w2.jpg" width="1008" id= 'img' alt="">
+<br><br>
+<br><br>
+<br><br>
+
+<!-- <canvas></canvas> -->
+<script>
+    window.onload = function(){
+        if(location.search.indexOf("?")==-1){
+            location.href += "?myurl";
+        }
+        else{
+            if(location.search.indexOf("myurl")==-1) location.href += "&myurl";
+        }
+    }
+    const oImg = document.getElementById('img');
+    if( oImg.readyState ==="complete" ){
+        draw();
+    }else{
+        oImg.onload = draw;
+    }
+
+    function draw(){
+        let can = document.createElement('canvas');
+        can.width = oImg.width;
+        can.height = oImg.height;
+        can.style.position = "absolute";
+        can.style.left = oImg.offsetLeft + "px";
+        can.style.top = oImg.offsetTop + "px";
+        oImg.parentNode.insertBefore( can,oImg )
+        let ctx = can.getContext('2d');
+        let img=new Image()
+        img.src="w1.jpg"
+        ctx.drawImage(img,0,0);
+
+        ctx.globalCompositeOperation = "destination-out";
+        ctx.strokeStyle = "#eee";
+        ctx.lineWidth = 70;
+        ctx.lineCap = "round"
+
+        can.onmousedown = function(e){
+            let x = e.pageX - can.offsetLeft;
+            let y = e.pageY - can.offsetTop;
+            ctx.beginPath();
+            ctx.arc( x,y,15,0,6.3,false );
+            ctx.fill();
+            can.onmousemove  = function( e ){
+                ctx.beginPath();
+                ctx.moveTo(x,y);
+                ctx.lineTo(e.pageX - can.offsetLeft,e.pageY - can.offsetTop);
+                x = e.pageX - can.offsetLeft;
+                y = e.pageY - can.offsetTop;
+                ctx.stroke();
+            }
+        }
+    }
+</script>
+</body>
+</html>

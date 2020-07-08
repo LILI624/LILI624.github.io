@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc172997-e984-455a-9aa3-f1c452e0afc1" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eDOGhJX37GCQahXrExS0LRGfXI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="forest.html" type="JavascriptDebugType" uri="http://localhost:63342/H5/Xuexi.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc172997-e984-455a-9aa3-f1c452e0afc1" name="默认更改列表" comment="" />
+      <created>1593852603364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593852603364</updated>
+      <workItem from="1593852606113" duration="2603000" />
+      <workItem from="1593872591598" duration="1292000" />
+      <workItem from="1593886746357" duration="7000" />
+      <workItem from="1593921879652" duration="20438000" />
+      <workItem from="1594037134366" duration="560000" />
+      <workItem from="1594039714993" duration="4538000" />
+      <workItem from="1594050584837" duration="46000" />
+      <workItem from="1594050656869" duration="8000" />
+      <workItem from="1594052293826" duration="441000" />
+      <workItem from="1594053016063" duration="3000" />
+      <workItem from="1594053032585" duration="3564000" />
+      <workItem from="1594056794268" duration="571000" />
+      <workItem from="1594057386006" duration="683000" />
+      <workItem from="1594058177201" duration="218000" />
+      <workItem from="1594095918496" duration="1927000" />
+      <workItem from="1594135248085" duration="766000" />
+      <workItem from="1594185616871" duration="1465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="159" key="#Web_浏览器" timestamp="1594045532449">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="390" y="159" key="#Web_浏览器/0.23.1680.970@0.23.1680.970" timestamp="1594045532449" />
+    <state x="570" y="179" key="#Xuexi.html" timestamp="1594052991550">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="570" y="179" key="#Xuexi.html/0.23.1680.970@0.23.1680.970" timestamp="1594052991550" />
+    <state x="627" y="303" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594054236923">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="627" y="303" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.970@0.23.1680.970" timestamp="1594054236923" />
+    <state x="578" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594039447331">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="578" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.970@0.23.1680.970" timestamp="1594039447331" />
+    <state x="570" y="179" key="#forest.html" timestamp="1594053003877">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="570" y="179" key="#forest.html/0.23.1680.970@0.23.1680.970" timestamp="1594053003877" />
+    <state x="502" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1594185617181">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="502" y="358" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1593921879831" />
+    <state x="502" y="354" key="com.intellij.ide.util.TipDialog/0.23.1680.970@0.23.1680.970" timestamp="1594185617181" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1593935383467">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/0.23.1680.970@0.23.1680.970" timestamp="1593935383467" />
+  </component>
+</project>
